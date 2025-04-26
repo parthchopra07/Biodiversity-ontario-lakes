@@ -1,0 +1,702 @@
+ID,FMZ,Name,Phos,pH,Calc,Ecozone,Species,Fishery
+15-3532-55170,5,Whitefish L.,8.199,6.99,3.06,Ontario Shield,11,Walleye
+15-3653-55394,5,Cygnet L.,26,7.179,3.379,Ontario Shield,11,Walleye
+15-3662-55240,5,Pelicanpouch L.,27.199,6.94,3.22,Ontario Shield,5,Walleye
+15-3754-55732,4,Umfreville L.,23.399,7.49,10.9,Ontario Shield,10,Walleye
+15-3755-55568,5,Blueberry L.,23.3,6.96,3.18,Ontario Shield,10,Walleye
+15-3786-56088,4,Dowswell L.,10.4,6.87,3.379,Ontario Shield,12,Lake Trout
+15-3895-55970,4,Wyder L.,7.099,6.589,2.5,Ontario Shield,11,Lake Trout
+15-3982-55227,5,Black Sturgeon L.s,13.9,7.07,4.459,Ontario Shield,30,Walleye
+15-3982-55227,5,Black Sturgeon L.s,13.9,7.07,4.459,Ontario Shield,28,Walleye
+15-4066-55579,4,Lount L.,28.399,7.419,10.4,Ontario Shield,17,NA
+15-4100-55022,5,Blindfold L.,11.6,6.78,3.799,Ontario Shield,14,Walleye
+15-4115-55351,5,Cross L.,6.7,6.86,1.76,Ontario Shield,12,Lake Trout
+15-4124-55428,5,Old Man L.,9.3,6.98,2.72,Ontario Shield,15,Walleye
+15-4127-55299,5,Plum L.,9.699,6.65,2.06,Ontario Shield,4,Walleye
+15-4131-55595,4,Big Fox L.,31.199,7.339,10,Ontario Shield,4,Walleye
+15-4153-55253,5,Silver L.,4.5,7.009,3.6,Ontario Shield,9,Lake Trout
+15-4172-56262,4,Longlegged L.,28.6,7.169,6.32,Ontario Shield,22,Walleye
+15-4216-54977,5,Andy L.,9.9,7.2,10.8,Ontario Shield,6,Walleye
+15-4238-55430,4,Tom L.,5.799,6.889,2.259,Ontario Shield,9,Lake Trout
+15-4250-55493,4,Delaney L.,9.8,7.049,3.58,Ontario Shield,13,Lake Trout
+15-4255-56385,4,Upper Medicine Stone L.,5.2,6.87,3.58,Ontario Shield,15,Lake Trout
+15-4270-56011,4,Conifer L.,4.9,7.15,4.78,Ontario Shield,10,Walleye
+15-4302-54803,5,Berry L.,8.699,7,3.12,Ontario Shield,7,NA
+15-4304-57399,4,Pikangikum L.,22.8,6.98,5.719,Ontario Shield,15,Walleye
+15-4305-55763,4,Tide L.,23.3,7.419,10.4,Ontario Shield,NA,Walleye
+15-4342-54693,5,Dogpaw L.,7.699,7.15,9.699,Ontario Shield,17,Lake Trout
+15-4351-55357,5,Shrub L.,6.799,6.799,1.899,Ontario Shield,13,Lake Trout
+15-4390-54514,5,Kakagi L.,5.599,7.599,18,Ontario Shield,25,Lake Trout
+15-4395-54864,5,Dryberry L.,5.099,6.719,2.879,Ontario Shield,18,Lake Trout
+15-4396-54165,5,Off L.,13.199,7.5,17.899,Ontario Shield,5,Walleye
+15-4399-55286,5,Daniels L.,3.899,6.79,2,Ontario Shield,8,Lake Trout
+15-4414-56807,4,Little Vermilion L.,19.5,7.15,5.66,Ontario Shield,10,Walleye
+15-4431-54685,5,Caviar L.,10.199,7.009,9.119,Ontario Shield,20,Walleye
+15-4454-55169,5,Lower Stewart L.,6.9,6.889,3.259,Ontario Shield,9,NA
+15-4455-55462,4,Big Canon L.,9.3,7.19,5.139,Ontario Shield,10,NA
+15-4470-55367,4,Canyon L.,9.599,7.129,4.04,Ontario Shield,16,Walleye
+15-4487-55234,5,Augite L.,6.8,6.719,3.359,Ontario Shield,11,Lake Trout
+15-4490-55266,5,Gordon L.,3.299,7.009,3.819,Ontario Shield,9,NA
+15-4495-55118,5,Winnange L.,3.7,6.929,2.68,Ontario Shield,13,Walleye
+15-4512-54200,5,West Jackfish L.,19.199,7,3.18,Ontario Shield,10,Walleye
+15-4525-57350,4,Berens L.,19.1,7.23,7.639,Ontario Shield,15,Walleye
+15-4526-57073,4,Pedlar L.,11.199,7.08,4.059,Ontario Shield,2,NA
+15-4552-55258,5,Cobble L.,12.8,7.169,5.259,Ontario Shield,11,NA
+15-4557-54838,5,Populus L.,8,7.41,11,Ontario Shield,17,Walleye
+15-4562-54445,5,Schistose L.,5.699,7.5,17,Ontario Shield,14,Walleye
+15-4589-56848,4,Coli L.,16.5,7.07,4.44,Ontario Shield,5,Walleye
+15-4590-56024,4,Wegg L.,20.6,7.5,10.9,Ontario Shield,11,NA
+15-4593-54629,5,Rowan L.,8.8,6.98,5.599,Ontario Shield,21,Walleye
+15-4602-54790,5,Atikwa L.,7.9,6.799,4.459,Ontario Shield,18,Lake Trout
+15-4602-55724,4,Sup L.,18.199,7.44,11.699,Ontario Shield,12,Walleye
+15-4606-55329,5,Edward L.,14.5,7.21,5.82,Ontario Shield,13,Walleye
+15-4613-57020,4,Nungesser L.,14,7.08,4.719,Ontario Shield,12,Walleye
+15-4632-54287,5,Loonhaunt L.,8.599,7.219,6.099,Ontario Shield,17,Walleye
+15-4642-55404,4,Eye L.,60.799,7.309,9.5,Ontario Shield,NA,Walleye
+15-4653-55440,4,Clay L.,36.5,7.389,10.8,Ontario Shield,6,Walleye
+15-4660-56220,4,Pakwash L.,31.3,7.169,11.699,Ontario Shield,11,Walleye
+15-4670-55751,4,Bornite L.,12.3,7.53,9.919,Ontario Shield,10,NA
+15-4674-55871,4,Anishinabi L.,6.7,7.71,11.4,Ontario Shield,7,NA
+15-4710-54335,5,Kaiashkons L.,5.4,7.08,10.6,Ontario Shield,12,Lake Trout
+15-4725-54467,5,Bluffpoint L.,6.5,6.91,5.9,Ontario Shield,9,Lake Trout
+15-4729-54570,5,Lawrence L.,6,6.669,3.18,Ontario Shield,18,Walleye
+15-4745-54662,5,Priam L.,9.699,6.919,2.98,Ontario Shield,14,Lake Trout
+15-4747-56248,4,Bruce L. South Basin,34,7.74,17.6,Ontario Shield,5,NA
+15-4765-56293,4,Bruce L.,16.699,7.53,11.1,Ontario Shield,NA,NA
+15-4784-56717,4,Trout L.,5.599,7.549,8.66,Ontario Shield,9,Walleye
+15-4785-54790,5,Tadpole L.,6,6.889,2.1,Ontario Shield,10,Lake Trout
+15-4785-55574,4,Cliff L.,9.099,7.349,9.4,Ontario Shield,12,Lake Trout
+15-4880-55820,4,Wabaskang L.,18,7.5,15.4,Ontario Shield,22,Walleye
+15-4919-56922,4,Blair L.,13.4,6.679,2.359,Ontario Shield,2,Walleye
+15-4965-56181,4,Cramp L.,11.199,7.019,5.12,Ontario Shield,9,NA
+15-4977-56626,4,Joyce L.,17,7.25,6.66,Ontario Shield,11,NA
+15-5001-56935,4,NL,14.199,6.059,1.879,Ontario Shield,10,NA
+15-5023-54567,5,Lower Manitou L.,6.2,7.44,9.4,Ontario Shield,18,Lake Trout
+15-5026-55337,5,Rugby L.,19.699,7.589,11.8,Ontario Shield,15,Walleye
+15-5036-57231,4,Mamakwash L.,12.4,6.929,4.639,Ontario Shield,10,NA
+15-5045-56849,4,Shabu L.,10,6.95,4.74,Ontario Shield,12,Walleye
+15-5085-55575,4,Thaddeus L.,11.699,7.849,25.5,Ontario Shield,8,Walleye
+15-5100-54230,5,Otukamamoan L.,9.3,6.58,3.08,Ontario Shield,16,Walleye
+15-5124-54968,5,Dore L.,13.199,7.25,6.679,Ontario Shield,6,Walleye
+15-5149-54725,5,Upper Manitou L.,6.5,7.48,10.3,Ontario Shield,3,"Lake Trout, Walleye"
+15-5149-54725,5,Upper Manitou L.,6.5,7.48,10.3,Ontario Shield,24,"Lake Trout, Walleye"
+15-5159-54211,5,Lowry L.,24.1,6.799,2.419,Ontario Shield,10,NA
+15-5172-54948,5,Godson L.,18.3,7.19,6.96,Ontario Shield,5,Walleye
+15-5179-56721,4,Woman L.,9.699,7.459,11.6,Ontario Shield,11,NA
+15-5192-56320,4,Whitemud L.,16.5,7.139,6.44,Ontario Shield,NA,Walleye
+15-5209-57140,4,Wavell L.,12.8,6.638,2.56,Ontario Shield,7,Walleye
+15-5210-56629,4,Confederation L.,7.2,7.12,8.439,Ontario Shield,NA,Lake Trout
+15-5213-56724,4,Premier L.,9.3,7.129,7.679,Ontario Shield,18,Walleye
+15-5221-54041,5,Little Turtle L.,12.4,6.7,2.68,Ontario Shield,19,Walleye
+15-5236-53978,5,Bad Vermilion L.,9.4,7.169,10,Ontario Shield,9,Walleye
+15-5241-55137,5,Thunder L.,12.1,7.65,13.3,Ontario Shield,13,Walleye
+15-5242-54196,5,Heron L.,12.5,6.66,2.02,Ontario Shield,10,NA
+15-5244-55839,4,Broadcast L.,9.8,8.039,32.2,Ontario Shield,10,NA
+15-5290-56555,4,Uchi L.,12,7.19,7.66,Ontario Shield,9,NA
+15-5293-55287,5,Gullwing L.,24.6,7.79,14.3,Ontario Shield,14,Walleye
+15-5308-53662,5,Namakan L.,10.9,7.139,5,Ontario Shield,7,NA
+15-5308-53662,5,Namakan L.,10.9,7.139,5,Ontario Shield,16,NA
+15-5331-56487,4,Upper Slate L.,13.5,7.169,6.32,Ontario Shield,7,NA
+15-5349-56812,4,Grace L.,14.1,7.389,10.699,Ontario Shield,6,Walleye
+15-5396-55107,4,Hartman L.,10.1,7.419,11.199,Ontario Shield,7,Walleye
+15-5413-55979,4,Birmingham L.,11.699,7.49,17,Ontario Shield,5,Walleye
+15-5429-54280,5,Eltrut L.,11.9,6.75,2.299,Ontario Shield,17,Walleye
+15-5452-56951,4,Birch L.,12.6,7.25,8.96,Ontario Shield,24,"Lake Trout, Walleye"
+15-5464-53494,5,Lilac L.,11,7.089,3.02,Ontario Shield,13,Lake Trout
+15-5472-54633,5,Wapageisi L.,6.9,7.03,4.9,Ontario Shield,5,Lake Trout
+15-5477-54774,5,Long L.,7.799,7.459,11.3,Ontario Shield,6,Walleye
+15-5502-54176,5,Manion L.,10.5,6.929,2.819,Ontario Shield,6,Walleye
+15-5503-53695,5,Captain Tom L.,21.699,6.54,2.12,Ontario Shield,11,Walleye
+15-5503-54708,5,Stormy L.,8,7.49,10.9,Ontario Shield,9,Lake Trout
+15-5510-54322,5,Z05_Cy2_03 L.,12.199,7,3.6,Ontario Shield,NA,NA
+15-5535-55111,4,Mickle L.,19.399,7.12,4.24,Ontario Shield,9,NA
+15-5552-56587,4,Betty L. (Z04_Cy2_06),12.6,7.16,5.799,Ontario Shield,2,NA
+15-5586-54227,5,Sandbeach L.,10.6,6.879,3.6,Ontario Shield,8,Walleye
+15-5600-54290,5,Mount L.,6.7,6.9,2.919,Ontario Shield,9,Walleye
+15-5605-56599,4,Jeanette L.,13.4,7.129,5.339,Ontario Shield,10,Walleye
+15-5606-56722,4,Hailstone L.,17.199,6.79,3.459,Ontario Shield,7,Walleye
+15-5630-53553,5,Lac la Croix,9.9,7.12,4.58,NA,15,NA
+15-5662-53769,5,Beaverhouse L.,5.099,6.78,2.16,Ontario Shield,16,Lake Trout
+15-5670-54304,5,Grey Trout L.,11.3,6.669,1.899,Ontario Shield,11,Lake Trout
+15-5684-54631,5,"WE66-23, L. (DRY-NL-651)",10.1,6.549,1.74,Ontario Shield,12,Walleye
+15-5688-53944,5,Factor L.,5,6.95,3.62,Ontario Shield,13,Lake Trout
+15-5747-53824,5,Cirrus L.,5.4,6.629,1.899,Ontario Shield,19,NA
+15-5752-55022,4,Unnamed L. (FMZ04_01),9,6.799,1.96,Ontario Shield,5,Walleye
+15-5755-54281,5,Clearwater West L.,4.299,6.87,2.18,Ontario Shield,8,Lake Trout
+15-5770-54220,5,Turtle L.,4.5,6.679,1.7,Ontario Shield,10,Walleye
+15-5782-55201,4,Amik L.,23.399,6.99,6.44,Ontario Shield,7,Walleye
+15-5787-53500,5,McAree L.,14.9,7.24,5.839,Ontario Shield,21,Walleye
+15-5802-54916,4,Mud L.,9.3,7.08,4.16,Ontario Shield,7,Walleye
+15-5808-56326,4,Otatakan L.,14.6,7.269,8.56,Ontario Shield,12,Walleye
+15-5813-53685,5,Your L.,12.699,6.65,1.84,Ontario Shield,2,Walleye
+15-5816-54402,5,White Otter L.,5,6.879,2.56,Ontario Shield,15,Walleye
+15-5833-54665,5,Horseshoe L.,9.8,6.429,1.86,Ontario Shield,8,Lake Trout
+15-5837-55088,4,Arethusa L.,15.699,7.169,5.24,Ontario Shield,11,Walleye
+15-5842-54507,5,Nora L.,6.9,6.9,2.759,Ontario Shield,11,Walleye
+15-5849-53998,5,Perch L.,12.699,7.089,6.28,Ontario Shield,16,Walleye
+15-5849-54406,5,Jackfish L.,10,6.799,2,Ontario Shield,5,Lake Trout
+15-5853-54894,4,Mameigwess L.,4.799,7.459,7.7,Ontario Shield,15,"Lake Trout, Walleye"
+15-5858-54247,5,Crowrock L.,5.099,6.679,1.62,Ontario Shield,12,Walleye
+15-5946-55139,4,Kukukus L.,14.5,7.24,5.54,Ontario Shield,15,Walleye
+15-5955-54404,5,Sandford L.,4.799,6.849,2.72,Ontario Shield,15,Lake Trout
+15-5958-53772,5,Jean L.,9.599,6.809,1.98,Ontario Shield,15,Walleye
+15-5965-54891,4,Indian L.,9.5,7.25,7.24,Ontario Shield,16,Walleye
+15-5970-53925,5,Abbess L.,8.099,6.62,1.6,Ontario Shield,10,Lake Trout
+15-5975-53595,5,Poohbah L.,8,6.929,2.74,Ontario Shield,11,Walleye
+15-5979-54059,5,Steep Rock L.,10.9,7.639,14.3,Ontario Shield,10,NA
+15-6011-55383,4,Bawden L.,17,7,7.019,Ontario Shield,NA,Walleye
+15-6011-55383,4,Bawden L.,17,7,7.019,Ontario Shield,8,Walleye
+15-6013-53540,5,Conmee L.,9.9,6.299,1.24,Ontario Shield,3,NA
+15-6038-55223,4,Flying Loon L.,14.1,7.179,5.519,Ontario Shield,11,NA
+15-6046-55042,4,Gooch L.,18.899,6.66,4.059,Ontario Shield,9,Walleye
+15-6048-54975,4,Victoria L.,9.099,7.32,6.2,Ontario Shield,11,Lake Trout
+15-6059-54782,4,Little Sandbar L.,14.4,7.12,6.059,Ontario Shield,10,Walleye
+15-6065-54144,5,Marmion L.,7.5,7.349,10,Ontario Shield,22,Walleye
+15-6065-54144,5,Marmion L.,7.5,7.349,10,Ontario Shield,20,Walleye
+15-6065-55009,4,Barrel L.,10.8,7.12,5.299,Ontario Shield,17,NA
+15-6075-53504,5,Burt L.,3.7,6.48,1.36,Ontario Shield,6,Walleye
+15-6076-54043,5,Rawn Re.,10.9,7.259,9.339,Ontario Shield,6,Walleye
+15-6090-55164,4,Press L.,13.1,7.019,6.179,Ontario Shield,17,Walleye
+15-6098-53616,5,Camel L.,11.1,6.259,1.419,Ontario Shield,2,NA
+15-6111-54547,5,Kay L.,5.599,6.61,1.86,Ontario Shield,6,Lake Trout
+15-6126-53450,5,Kahshahpiwi L.,4.7,6.58,1.7,Ontario Shield,7,NA
+15-6135-54228,5,Sawbill B.,10.6,7,5.62,Ontario Shield,NA,Walleye
+15-6143-55885,4,Bury L.,15.699,7.29,9.06,Ontario Shield,8,Walleye
+15-6146-53867,5,Pickerel L.,4.299,6.759,2.58,Ontario Shield,12,Walleye
+15-6146-55661,4,Stanzhikimi L.,18.1,7.7,20.5,Ontario Shield,NA,NA
+15-6207-55385,4,Lake of B.s,13.1,7.37,9.3,Ontario Shield,18,NA
+15-6217-55096,4,Wintering L.,12.699,7.309,7.98,Ontario Shield,13,Walleye
+15-6217-56090,4,Carling L.,6.9,7.19,7.96,Ontario Shield,6,Lake Trout
+15-6228-53450,5,Agnes L.,3.5,6.78,2.419,Ontario Shield,15,NA
+15-6233-55269,4,Towers L.,13.3,7.33,8.919,Ontario Shield,7,Walleye
+15-6244-55581,4,Singapore L.,14.199,7.019,6.48,Ontario Shield,13,Walleye
+15-6250-53348,5,Louisa L.,6,6.87,3.459,Ontario Shield,8,Lake Trout
+15-6259-55257,4,Whiterock L.,11.8,7.389,11.9,Ontario Shield,12,NA
+15-6263-53964,5,Crystal L.,5.5,6.86,2.819,Ontario Shield,11,Lake Trout
+15-6300-55346,4,Penassi L.,10.9,7.139,6.179,Ontario Shield,9,Walleye
+15-6304-54898,4,Sowden L.,13.199,6.839,3.839,Ontario Shield,8,Walleye
+15-6317-54251,5,Farley L.,13.4,6.559,2.839,Ontario Shield,2,Walleye
+15-6321-55100,4,Crystal L.,11,6.929,6.96,Ontario Shield,4,Walleye
+15-6332-53357,5,This Man L.,9.199,7.44,14.8,Ontario Shield,8,Lake Trout
+15-6340-53970,5,Eva L.,4.5,6.879,3.04,Ontario Shield,3,Lake Trout
+15-6345-54482,5,Scotch L.,6.7,6.669,2.24,Ontario Shield,13,Walleye
+15-6348-53492,5,McEwen L.,6.099,6.919,3.08,Ontario Shield,3,Lake Trout
+15-6378-55460,4,Gibraltar L.,12.8,6.94,6,Ontario Shield,8,Walleye
+15-6383-54085,5,Mercutio L.,14.699,7.049,3.859,Ontario Shield,10,Walleye
+15-6401-54050,5,Crooked Pine L.,10.1,7.24,7.099,Ontario Shield,7,NA
+15-6401-54050,5,Crooked Pine L.,10.1,7.24,7.099,Ontario Shield,11,NA
+15-6471-56202,4,Arc L.,6.799,7.169,6.94,Ontario Shield,9,Walleye
+15-6480-53625,5,Mack L.,12.699,7.16,6.299,Ontario Shield,8,NA
+15-6483-54441,5,Pyramid L.,9.199,6.839,2.62,Ontario Shield,2,NA
+15-6493-54089,5,Union L.,14.3,6.889,3.6,Ontario Shield,7,Walleye
+15-6500-55194,4,Bell L.,7.5,7.089,5.679,Ontario Shield,15,Lake Trout
+15-6508-53496,5,Saganagons L.,7.9,7.2,5.639,Ontario Shield,11,Lake Trout
+15-6523-56318,4,Miniss L.,8.099,7.04,6.12,Ontario Shield,NA,Walleye
+15-6531-54804,4,Selwyn L.,11.199,6.87,3.319,Ontario Shield,12,Walleye
+15-6578-54141,6,Bedivere L.,13.1,7.179,4.179,Ontario Shield,9,Walleye
+15-6587-53594,6,Twinhouse L.,5.7,6.61,1.56,Ontario Shield,5,NA
+15-6600-55380,4,Sturgeon L.,6.799,7.429,14.5,Ontario Shield,27,"Lake Trout, Walleye"
+15-6617-56410,4,Bertaud L.,7.4,6.87,5.82,Ontario Shield,11,Walleye
+15-6648-53638,6,Greenwood L.,9,6.879,3.359,Ontario Shield,8,NA
+15-6723-53466,6,Northern Light L.,9.099,7.4,4.879,Ontario Shield,18,Walleye
+15-6733-56270,4,Minchin L.,6.2,7.12,6.219,Ontario Shield,NA,Walleye
+15-6733-56270,4,Minchin L.,6.2,7.12,6.219,Ontario Shield,13,Walleye
+15-6742-56100,4,Fitchie L.,11.1,6.94,6.259,Ontario Shield,10,Walleye
+15-6747-53842,6,Burchell L.,3.1,7.45,12.8,Ontario Shield,20,Lake Trout
+15-6775-54775,4,Wawang L.,9.5,7.129,4.019,Ontario Shield,17,Walleye
+15-6812-53794,6,Grouse L.,8.9,7.339,6.419,Ontario Shield,12,Lake Trout
+15-6825-55952,4,Savant L.,5.9,7.24,6.5,Ontario Shield,18,"Lake Trout, Walleye"
+15-6827-54135,6,"des Mille Lacs, La.",22.699,7.19,6.059,Ontario Shield,13,Walleye
+15-6832-53585,6,Titmarsh L.,5.4,7.2,4.139,Ontario Shield,9,Walleye
+15-6832-55663,4,Fog L.,6.5,6.629,2.839,Ontario Shield,7,NA
+15-6881-55875,4,Silver L.,8.199,7.03,6.259,Ontario Shield,8,Walleye
+15-6889-55829,4,Smye L.,10,6.28,2.359,Ontario Shield,13,Walleye
+15-6890-55500,4,Seseganaga L.,5.9,6.73,3.08,Ontario Shield,9,Walleye
+15-6895-56512,4,Pashkokogan L.,8.9,7.139,7.099,Ontario Shield,13,Walleye
+15-6904-53837,6,Greenwater L.,5.4,7.519,9.679,Ontario Shield,14,Lake Trout
+15-6908-56374,4,McCrea L.,7.4,7.049,6.719,Ontario Shield,19,Walleye
+15-6913-53983,6,Kashabowie L.,7.799,7.259,4.36,Ontario Shield,12,Walleye
+15-6979-55108,6,Empire L.,7.599,6.95,3.58,Ontario Shield,17,Walleye
+15-6981-54703,6,Pakashkan L.,9.5,7.58,8.679,Ontario Shield,17,Walleye
+15-6988-53913,6,Shebandowan L.s,7.4,7.455,6.62,Ontario Shield,17,Walleye
+15-7008-55644,6,Kawaweogama L.,7.4,6.98,2.919,Ontario Shield,17,NA
+15-7012-54867,6,Weaver L.,12.1,7.16,4.54,Ontario Shield,8,NA
+15-7020-53669,6,Blunder L.,14.6,6.919,3.58,Ontario Shield,8,Walleye
+15-7025-53379,6,Arrow L.,4.599,7.459,7.599,Ontario Shield,19,Lake Trout
+15-7031-55216,6,Sparkling L.,9.3,6.809,2.7,Ontario Shield,17,Walleye
+15-7043-56488,4,Greenbush L.,7.5,7.269,8,Ontario Shield,7,Walleye
+15-7048-55476,6,Wapikaimaski L.,7.799,7.009,3.62,Ontario Shield,22,NA
+15-7050-54058,6,Athelstane L.,9,7.44,6.44,Ontario Shield,14,NA
+15-7053-53459,6,Sandstone L.,9.099,7.589,12.199,Ontario Shield,14,Walleye
+15-7071-54348,6,Upper Kaogomok L.,15.9,7.44,7.08,Ontario Shield,6,NA
+15-7091-53688,6,Batwing L.,8.699,7.129,4.4,Ontario Shield,11,Walleye
+15-7111-54802,6,Holly L.,7.7,7.23,3.399,Ontario Shield,9,Walleye
+15-7163-54881,6,Kearns L.,19.899,7.429,6.04,Ontario Shield,14,Walleye
+16-2773-53446,6,Whitefish L.,13.5,7.95,20.899,Ontario Shield,5,Walleye
+16-2863-55212,6,Kashishibog L.,8.3,6.9,2.74,Ontario Shield,8,NA
+16-2880-54647,6,Hine L.,8.599,7.339,5.599,Ontario Shield,3,NA
+16-2901-53647,6,Marks L.,14,7.37,7.96,Ontario Shield,16,Brook Trout
+16-2934-56630,4,Frain L.,9.9,7.299,7.459,Ontario Shield,6,NA
+16-3069-55034,6,Holinshead L.,17.899,7.139,4.139,Ontario Shield,13,Walleye
+16-3103-54530,6,"des Iles, La.",18.399,7.5,5.78,Ontario Shield,9,Lake Trout
+16-3132-54041,6,Dog L.,8.699,7.45,7.639,Ontario Shield,12,Walleye
+16-3207-54488,6,Jolly L.,12.4,7.459,7.86,Ontario Shield,9,Walleye
+16-3237-55525,6,Maggotte L.,10.699,6.53,2.1,Ontario Shield,11,Walleye
+16-3346-55390,6,Obonga L.,5.2,7.25,5.219,Ontario Shield,15,Walleye
+16-3483-54344,6,Walotka L.,4.7,7.23,4.099,Ontario Shield,13,Lake Trout
+16-3488-53829,6,Penassen L.s,11.3,7.049,3.5,Ontario Shield,10,Brook Trout
+16-3500-55543,6,Waweig L.,5.9,7.41,7.759,Ontario Shield,19,Lake Trout
+16-3534-54692,6,Circle L.,12.8,7.509,8.859,Ontario Shield,12,Walleye
+16-3557-55322,6,Cry L.,4.799,7.509,9.439,Ontario Shield,15,Lake Trout
+16-3593-54568,6,Muskrat L.,14.1,7.379,7.099,Ontario Shield,12,NA
+16-3610-55699,6,Randolph L.,6.599,7.379,11.199,Ontario Shield,10,Brook Trout
+16-3634-54687,6,Black Sturgeon L.,7.2,7.66,11.9,Ontario Shield,3,Walleye
+16-3634-54687,6,Black Sturgeon L.,7.2,7.66,11.9,Ontario Shield,19,Walleye
+16-3663-55543,6,Castle L.,7.599,7.58,9.46,Ontario Shield,17,NA
+16-3680-53921,6,Nalla L.,4.7,7.259,3.399,Ontario Shield,8,Brook Trout
+16-3700-54335,6,Cliff L.,4.299,7.719,12.8,Ontario Shield,7,Lake Trout
+16-3706-53956,6,Bisect L.,5.599,7.15,3.48,Ontario Shield,6,Brook Trout
+16-3723-53954,6,Upper Hunters L.,10,6.879,2.12,Ontario Shield,6,Brook Trout
+16-3744-54268,6,Unknown L.,5.799,7.429,4.559,Ontario Shield,10,Brook Trout
+16-3884-54562,6,Frazer L.,7,7.61,9.24,Ontario Shield,9,Walleye
+16-3964-54451,6,Purdom L.,11.6,7.4,6.879,Ontario Shield,9,Brook Trout
+16-4000-54670,6,Oskawe L.,9.5,7.62,9.46,Ontario Shield,12,NA
+16-4080-53975,6,Lost L.,11.4,7.4,7,Ontario Shield,9,Brook Trout
+16-4332-55499,6,Weewullee L.,7.599,8.16,38.7,Ontario Shield,5,Brook Trout
+16-4348-54546,7,Kilgour L.,4,6.849,3.919,Ontario Shield,2,Lake Trout
+16-4420-54651,7,Barbara L.,2.5,7.269,7.179,Ontario Shield,10,Lake Trout
+16-4433-55531,6,Elbow L.,14.9,7.679,19.5,Ontario Shield,11,Walleye
+16-4450-54254,7,Buckaday L.,7.299,6.339,2.359,Ontario Shield,2,Brook Trout
+16-4457-54868,7,Bigamy L.,11.8,7.07,9.359,Ontario Shield,NA,Brook Trout
+16-4548-54782,7,Parks L.,4.4,7.169,8.259,Ontario Shield,6,Walleye
+16-4566-55070,6,Beatty L.,7.4,8.08,37.5,Ontario Shield,13,Lake Trout
+16-4636-55195,7,Dilla L.,9.9,7.599,20.199,Ontario Shield,8,Walleye
+16-4688-55390,7,Onaman L.,10.5,7.139,8.56,Ontario Shield,NA,Walleye
+16-4747-54847,7,South Beatty L.,7.599,7.62,20.899,Ontario Shield,2,Walleye
+16-4793-54217,7,Louise L.,5.5,6.519,3.399,Ontario Shield,NA,Brook Trout
+16-4802-54759,7,Wintering L.,6.2,7.95,26.1,Ontario Shield,10,Walleye
+16-4824-54701,7,Wig L.,7.899,7.669,24.5,Ontario Shield,7,Walleye
+16-4869-54848,7,Gamsby L.,6.799,7.87,25.399,Ontario Shield,4,NA
+16-4881-55533,7,Cavell L.,6.599,7.21,11.3,Ontario Shield,NA,Brook Trout
+16-4882-55089,7,Wildgoose L.,7.099,7.9,28.1,Ontario Shield,8,Walleye
+16-4995-54471,7,Catlonite L.,5.599,7.349,7.74,Ontario Shield,5,Brook Trout
+16-5024-55448,7,Springwater L.,10.9,7.74,26.199,Ontario Shield,7,Walleye
+16-5042-54260,7,Cairngorm L.,4.099,6.629,2.64,Ontario Shield,4,Lake Trout
+16-5079-54800,7,Long L.,14.3,7.849,24,Ontario Shield,26,"Lake Trout, Walleye"
+16-5087-55041,7,Kenogamisis L.,13,7.839,23.399,Ontario Shield,15,Walleye
+16-5188-55331,7,Burrows L.,8.399,7.719,25.699,Ontario Shield,11,Walleye
+16-5311-54861,7,Y L.,5.5,7.96,22.399,Ontario Shield,NA,Brook Trout
+16-5341-54366,7,Killala L.,5.4,7.839,18.1,Ontario Shield,13,Lake Trout
+16-5406-54956,7,McKay L.,7.099,8.039,26.899,Ontario Shield,8,Lake Trout
+16-5412-54570,7,Kagiano L.,6.799,7.429,19,Ontario Shield,3,Walleye
+16-5538-55350,7,Chipman L.,8.699,7.61,24.8,Ontario Shield,3,Walleye
+16-5657-55074,7,Pagwachuan L.,5.299,8.06,31.8,Ontario Shield,8,Lake Trout
+16-5680-55298,7,Fernow L.,9.099,7.75,32.5,Ontario Shield,15,Lake Trout
+16-5774-55353,7,Shacabac L.,9.4,6.98,9.419,Ontario Shield,6,Walleye
+16-5818-55170,7,Klotz L.,8.199,7.94,29,Ontario Shield,12,Walleye
+16-6003-54025,7,White L.,9.3,7.69,21.8,Ontario Shield,10,"Lake Trout, Walleye"
+16-6052-53171,7,Jackfish L.,4.7,5.759,1.22,Ontario Shield,4,Brook Trout
+16-6053-54810,7,White Otter L.,7.599,7.71,28,Ontario Shield,8,Walleye
+16-6094-53522,7,Partridge L.,6,7.04,3.6,Ontario Shield,NA,Brook Trout
+16-6121-53610,7,North McCrea L.,5.2,7.089,5.2,Ontario Shield,6,Brook Trout
+16-6192-53335,7,Ellen L.,5.799,6.629,3.839,Ontario Shield,7,Lake Trout
+16-6225-54072,7,Kwinkwaga L.,7.599,7.679,22.399,Ontario Shield,10,Walleye
+16-6348-54346,7,Tocheri L.,35,7.549,18.6,Ontario Shield,4,Walleye
+16-6393-54219,7,Matthews L.,8.699,7.95,20.399,Ontario Shield,7,Walleye
+16-6398-54390,7,Shekak L.,8.699,7.769,23.3,Ontario Shield,6,Walleye
+16-6420-54760,7,Nagagami L.,8,7.69,24.699,Ontario Shield,6,Walleye
+16-6439-54864,7,Hiawatha L.,6.9,7.599,22.5,Ontario Shield,6,Walleye
+16-6447-54048,7,Dayohessarah L.,6.4,7.83,25.3,Ontario Shield,15,Lake Trout
+16-6450-53469,7,West Kabenung L.,5.2,6.95,6.16,Ontario Shield,NA,Walleye
+16-6497-54012,7,Strickland L.,4.599,7.32,7.82,Ontario Shield,9,Lake Trout
+16-6583-54325,7,"Placid, L.",9.8,7.919,30.699,Ontario Shield,5,Walleye
+16-6678-52804,10,Gamitagama L.,4.2,6.769,1.5,Ontario Shield,NA,Brook Trout
+16-6678-54040,7,Nameigos L.,9.4,7.53,16.8,Ontario Shield,7,Walleye
+16-6683-54687,7,Newlands L.,7.299,7.879,30.399,Ontario Shield,NA,NA
+16-6683-54687,7,Newlands L.,7.299,7.879,30.399,Ontario Shield,NA,NA
+16-6697-54829,7,Nagagamisis L.,12.6,7.94,34.899,Ontario Shield,12,Walleye
+16-6699-53200,7,Wawa L.,4.799,7.679,19.1,Ontario Shield,9,Lake Trout
+16-6710-52766,10,Old Woman L.,5.2,6.509,1.379,Ontario Shield,NA,Brook Trout
+16-6714-52922,10,Little Dossier L.,5.599,6.929,4.08,Ontario Shield,3,Brook Trout
+16-6718-52845,10,Mijinemungshing L.,12.6,6.66,1.8,Ontario Shield,NA,Brook Trout
+16-6727-53244,7,Lena L.,6.9,7.389,12.3,Ontario Shield,3,Brook Trout
+16-6735-52992,10,Ear L.,5.599,6.4,1.56,Ontario Shield,NA,Lake Trout
+16-6806-52194,10,Upper Pancake L.,4.9,6.82,1.96,Ontario Shield,15,Brook Trout
+16-6806-52259,10,Queminico L.,7.2,7.543,5.719,Ontario Shield,13,Brook Trout
+16-6809-53004,10,Anjigami L.,7.7,6.799,2.259,Ontario Shield,8,Lake Trout
+16-6811-52113,10,Mamainse L.,2.6,6.839,1.78,Ontario Shield,13,Brook Trout
+16-6823-52566,10,Kwagama L.,3.2,6.629,1.139,Ontario Shield,NA,Brook Trout
+16-6829-52763,10,Radium L.,6.7,6.4,1.54,Ontario Shield,NA,Brook Trout
+16-6845-52653,10,Vesi L.,21,6.58,1.78,Ontario Shield,NA,Brook Trout
+16-6855-52885,10,Sand L.,9.9,6.099,1.439,Ontario Shield,9,Brook Trout
+16-6863-54334,7,Kabinakagamisis L.,7.7,7.86,21.5,Ontario Shield,13,Walleye
+16-6867-52661,10,Callahan L.,5.4,6.299,1.24,Ontario Shield,3,Brook Trout
+16-6893-54197,7,Kabinakagami L.,10.3,7.879,21.699,Ontario Shield,6,Walleye
+16-6898-53236,7,Whitefish L.,7.099,7.099,5.44,Ontario Shield,10,NA
+16-6953-53376,7,Manitowik L.,5.099,7.44,11.199,Ontario Shield,10,NA
+16-6971-52177,10,Griffin L.,2.7,7.07,3.5,Ontario Shield,14,Brook Trout
+16-6991-53906,7,Oba L.,8.4,7.37,14.6,Ontario Shield,7,Walleye
+16-6991-54320,7,Cameron L.,9.8,7.639,19.399,Ontario Shield,3,Walleye
+16-7004-52204,10,Dick L.,4.5,7.08,4.04,Ontario Shield,7,Brook Trout
+16-7046-52151,10,Adelaide L.,4.099,6.79,2.919,Ontario Shield,10,"Brook Trout, Lake Trout"
+16-7050-53715,7,Wabatongushi L.,10.3,7.419,8.5,Ontario Shield,8,Walleye
+16-7100-51834,10,Sill L.,5.299,7.24,3.14,Ontario Shield,10,Brook Trout
+16-7102-54270,7,Gull L.,8.399,7.679,18.6,Ontario Shield,4,Walleye
+16-7122-53960,7,Tatnall L.,6.9,7.21,11.3,Ontario Shield,3,Walleye
+16-7128-53305,7,Shikwamkwa L.,8.4,7.03,4.5,Ontario Shield,8,Walleye
+16-7134-51997,10,Achigan L.,4.299,6.799,2.08,Ontario Shield,9,Lake Trout
+16-7139-53538,7,Dog L.,8.8,7.139,11.699,Ontario Shield,9,"Lake Trout, Walleye"
+16-7153-52806,10,McEwen L.,6,6.54,2.339,Ontario Shield,NA,Lake Trout
+16-7186-51904,10,Weckstrom L.,3.7,7.04,3.12,Ontario Shield,12,Brook Trout
+16-7186-51904,10,Weckstrom L.,3.7,7.04,3.12,Ontario Shield,4,Brook Trout
+16-7267-52208,10,Gavor L.,4.799,7.419,7.839,Ontario Shield,9,Brook Trout
+17-2752-51845,10,Devils L.,4.2,6.809,2.48,Ontario Shield,18,Brook Trout
+17-2762-52221,10,Watson L.,4.7,7.169,6.4,Ontario Shield,NA,Brook Trout
+17-2792-52332,10,Galloway L.,11.4,6.66,2.6,Ontario Shield,10,Brook Trout
+17-2800-52265,10,Quinn L.,5.099,6.599,2.259,Ontario Shield,13,Brook Trout
+17-2809-52215,10,Hanes L.,6.299,6.96,3.94,Ontario Shield,12,Brook Trout
+17-2830-53096,7,Prairie Bee L.,4.9,6.9,6.599,Ontario Shield,11,NA
+17-2837-53860,7,Woodosgoon L.,7.5,7.19,7.08,Ontario Shield,NA,Brook Trout
+17-2857-52221,10,Point L.,6.799,6.719,2.64,Ontario Shield,9,Brook Trout
+17-2862-52249,10,Graham L.,8.099,6.549,2.54,Ontario Shield,10,Brook Trout
+17-2866-53707,7,South Greenhill L.,9.699,6.66,3.839,Ontario Shield,8,Brook Trout
+17-2870-51459,10,Rock L.,11,7.179,5.099,Ontario Shield,27,Walleye
+17-2880-52035,10,Saddle L.,5.7,6.889,2.52,Ontario Shield,11,Brook Trout
+17-2880-52069,10,Ward L.,3.799,6.73,2.54,Ontario Shield,13,Brook Trout
+17-2884-53030,10,Little Wawa L.,5.4,7.23,10.5,Ontario Shield,6,Walleye
+17-2933-51822,10,Garden L.,6.5,6.82,3.56,Ontario Shield,17,Brook Trout
+17-2953-54198,8,Lower Minnipuka L.,7.599,7.769,17.699,Ontario Shield,9,Walleye
+17-2975-52266,10,Goulais L.,9.199,6.61,2.859,Ontario Shield,14,"Brook Trout, Lake Trout"
+17-2976-52164,10,South Branch L.,8.199,6.78,2.359,Ontario Shield,15,Brook Trout
+17-3006-52333,10,Gull L.,8.8,6.74,2.72,Ontario Shield,11,Brook Trout
+17-3006-53592,7,Missinaibi L.,6.2,7.009,9.099,Ontario Shield,15,"Lake Trout, Walleye"
+17-3014-51622,10,Shelden L.,2.2,7.15,3.6,Ontario Shield,12,Brook Trout
+17-3014-51622,10,Shelden L.,2.2,7.15,3.6,Ontario Shield,2,Brook Trout
+17-3053-51969,10,Ranger L.,2.299,7.179,3.439,Ontario Shield,24,Lake Trout
+17-3074-52158,10,Gong L.,5,6.94,2.759,Ontario Shield,24,Brook Trout
+17-3086-52062,10,Saymo L.,3.399,6.99,3.399,Ontario Shield,20,Brook Trout
+17-3090-52347,10,Megisan L.,5.9,6.889,4.12,Ontario Shield,11,"Brook Trout, Lake Trout"
+17-3091-51898,10,Penelope L.,7.4,6.98,7.66,Ontario Shield,13,Lake Trout
+17-3094-52159,10,Anvil L.,4.099,7.15,2.759,Ontario Shield,12,Brook Trout
+17-3120-53099,7,Como L.,8.699,7.009,8.46,Ontario Shield,14,"Lake Trout, Walleye"
+17-3164-51328,10,Basswood L.,2.1,7.009,3.359,Ontario Shield,19,Lake Trout
+17-3191-51490,10,Cummings L.,3.6,6.74,2.399,Ontario Shield,10,NA
+17-3191-51595,10,Wakomata L.,5,7.16,3.379,Ontario Shield,18,Lake Trout
+17-3202-52877,10,McLennan L.,14.4,7.259,7.5,Ontario Shield,7,Walleye
+17-3228-51260,10,Bright L.,13.9,7.519,5.94,Ontario Shield,26,Walleye
+17-3275-54280,8,Brunswick L.,12,7.58,19.899,Ontario Shield,13,NA
+17-3280-52990,8,Borden L.,7.2,7.589,13,Ontario Shield,13,Walleye
+17-3280-53321,7,Floranna L.,7.799,7.589,11.9,Ontario Shield,9,Walleye
+17-3334-53694,7,Bittern L.,9.8,7.98,34.899,Ontario Shield,4,Brook Trout
+17-3340-51953,10,Aubrey L.,8.5,7.309,8.38,Ontario Shield,2,NA
+17-3340-51953,10,Aubrey L.,8.5,7.309,8.38,Ontario Shield,17,NA
+17-3340-51953,10,Aubrey L.,8.5,7.309,8.38,Ontario Shield,NA,NA
+17-3354-52393,10,Flame L.,6.599,7.019,3.98,Ontario Shield,8,Walleye
+17-3360-51357,10,Little Chiblow L.,7.299,7.03,2.52,Ontario Shield,17,Lake Trout
+17-3370-52303,10,Beak L.,6.299,6.54,3.66,Ontario Shield,7,Walleye
+17-3400-51692,10,Kirkpatrick L.,3.799,6.96,3.359,Ontario Shield,14,Lake Trout
+17-3416-52510,10,Wenebegon L.,13.5,7.45,12,Ontario Shield,7,NA
+17-3423-51340,10,Chiblow L.,2.399,7.019,2.62,Ontario Shield,21,Lake Trout
+17-3426-53189,8,Nemegosenda L.,6.099,7.769,17.399,Ontario Shield,12,Lake Trout
+17-3432-51760,10,Duval L.,4.699,6.48,3.02,Ontario Shield,9,"Brook Trout, Lake Trout"
+17-3441-54377,8,Opasatika L.,13.1,7.629,21.6,Ontario Shield,10,NA
+17-3453-51907,10,Doehead L.,22.399,7.139,3.839,Ontario Shield,13,Brook Trout
+17-3457-51246,10,Cataract L.,5,6.759,2.319,Ontario Shield,14,Walleye
+17-3525-51387,10,Matinenda L.,6.2,6.91,2.56,Ontario Shield,20,Lake Trout
+17-3525-51431,10,Bay L.,2.899,6.5,2.759,Ontario Shield,5,NA
+17-3557-51418,10,Big Moon L.,4.099,6.91,2.66,Ontario Shield,19,Lake Trout
+17-3563-52382,10,Wasasinka L.,8,7.12,4.379,Ontario Shield,NA,NA
+17-3563-53717,8,Kapuskasing L.,12.9,7.45,8.779,Ontario Shield,6,Walleye
+17-3582-51582,10,Astonish L.,2.899,7.41,6.98,Ontario Shield,12,Brook Trout
+17-3592-51192,10,Lauzon L.,3.1,7.15,3.52,Ontario Shield,23,Lake Trout
+17-3606-52610,10,Wakami L.,11.699,7.29,8.019,Ontario Shield,8,Walleye
+17-3629-51531,10,Ten Mile L.,2.399,6.679,2.899,Ontario Shield,11,Lake Trout
+17-3631-51330,10,Rossmere L.,6.299,6.9,2.779,Ontario Shield,16,Brook Trout
+17-3670-52999,8,Denyes L.,11.199,7.25,13.5,Ontario Shield,7,NA
+17-3678-51289,10,McGiverin L.,5.099,6.94,2.439,Ontario Shield,22,Brook Trout
+17-3714-52934,8,Cree L.,23.8,7.74,16.3,Ontario Shield,8,Walleye
+17-3730-53082,8,Little Ridley L.,10.1,7.299,8.22,Ontario Shield,4,Walleye
+17-3736-53361,8,Carty L.,11.199,7.25,14.3,Ontario Shield,9,Walleye
+17-3764-51679,10,Rawhide L.,3.6,6.759,3.1,Ontario Shield,8,Lake Trout
+17-3767-53044,8,Rollo L.,5.4,7.559,15.699,Ontario Shield,16,Lake Trout
+17-3788-53266,8,Ivanhoe L.,12.1,7.459,12.1,Ontario Shield,6,Walleye
+17-3790-55066,8,Zadi L.,19.399,7.49,12.1,Ontario Shield,10,Walleye
+17-3804-53044,8,Hanson L.,7.599,7.519,13.1,Ontario Shield,5,Walleye
+17-3810-51468,10,Quirke L.,2.5,6.929,15.4,Ontario Shield,27,Walleye
+17-3813-51443,10,Popeye L.,4.7,6.78,2.96,Ontario Shield,12,Walleye
+17-3844-53694,10,Sweetwater L.,10.9,7.48,11,Ontario Shield,4,Walleye
+17-3849-51482,10,Teasdale L.,4,7.219,8.699,Ontario Shield,10,NA
+17-3856-51190,10,Grassy L.,5.099,6.809,8.859,Ontario Shield,15,Walleye
+17-3874-51976,10,Bark L.,6.599,6.78,2.819,Ontario Shield,17,Lake Trout
+17-3903-51589,10,Deschamp L.,12,6.48,1.76,Ontario Shield,8,Brook Trout
+17-3914-51928,10,Boumage L.,3.7,6.29,1.3,Ontario Shield,5,Lake Trout
+17-3930-52114,10,Rose L.,8.8,6.009,1.72,Ontario Shield,3,NA
+17-3943-51700,10,Spinweb L.,3.899,7.08,3.299,Ontario Shield,NA,Brook Trout
+17-3974-51436,10,Whiskey L.,3.1,6.969,12.9,Ontario Shield,12,Lake Trout
+17-3986-50757,10,"Kagawong, L.",5.299,8.14,29.399,Mixedwood Plains,NA,NA
+17-4010-53144,8,Horwood L.,10.699,7.509,12.6,Ontario Shield,7,Walleye
+17-4019-55121,8,Guilfoyle L.,10.8,7.98,25.399,Ontario Shield,14,Walleye
+17-4025-55006,8,Pearce L.,11.6,7.12,10.5,Ontario Shield,10,NA
+17-4061-52742,8,Opeepeesway L.,11.5,6.919,7.519,Ontario Shield,8,Walleye
+17-4104-52936,8,Rush L.,9.199,7.269,7.16,Ontario Shield,8,Walleye
+17-4140-53137,8,Hardiman L.,8,6.99,8.419,Ontario Shield,NA,Walleye
+17-4145-52197,10,Indian L.,8.199,6.469,2.58,Ontario Shield,11,Walleye
+17-4148-52820,8,Rice L.,12.699,6.71,5.879,Ontario Shield,8,Walleye
+17-4157-51611,10,Klondyke L.s,6.599,6.549,1.6,Ontario Shield,NA,Brook Trout
+17-4164-54756,8,Remi L.,11.3,7.71,28.5,Ontario Shield,22,NA
+17-4175-51987,10,Mozhabong L.,3.6,6.53,1.78,Ontario Shield,8,Lake Trout
+17-4182-52388,10,Biscotasi L.,9,6.96,3.819,Ontario Shield,11,NA
+17-4235-50696,10,"Manitou, L.",5.2,8.009,31,Mixedwood Plains,NA,Lake Trout
+17-4239-51999,10,Mile L.,4.9,6.12,1.36,Ontario Shield,NA,NA
+17-4271-53064,8,Katagi L.,10.1,6.769,4,Ontario Shield,5,Walleye
+17-4329-51689,10,S L.,4.3,6.44,2.08,Ontario Shield,2,Brook Trout
+17-4339-53837,8,Fortune L.,7.099,7.099,4.08,Ontario Shield,5,Lake Trout
+17-4340-52773,8,Mesomikenda L.,5.9,7.139,7.519,Ontario Shield,9,Walleye
+17-4352-52392,10,Ninth L.,14.9,6.7,4.54,Ontario Shield,6,Walleye
+17-4357-54206,8,Oke L.,15.699,6.83,5.059,Ontario Shield,4,Walleye
+17-4364-52017,10,Pogamasing L.,8.099,6.769,2.48,Ontario Shield,11,NA
+17-4372-52874,8,Makami L.,7.799,7.08,5.44,Ontario Shield,7,Walleye
+17-4414-51336,10,Agnew L.,8.5,6.96,3.56,Ontario Shield,9,Walleye
+17-4430-54264,8,Return L.,10.699,7.53,19,Ontario Shield,4,NA
+17-4485-51124,10,Lang L.,7.099,7.009,5.08,Ontario Shield,15,Walleye
+17-4529-52150,10,Lower Muldrew L.,10.5,6.349,2.58,Ontario Shield,12,Walleye
+17-4549-51263,10,Wabagishik L.,15.199,7.15,16.6,Ontario Shield,7,Walleye
+17-4561-50068,16,Cameron L.,5.4,8.169,35.5,Mixedwood Plains,10,Walleye
+17-4564-51563,10,Ministic L.,4.4,6.25,1.7,Ontario Shield,8,NA
+17-4580-52980,8,Mattagami L.,8.5,7.33,8.82,Ontario Shield,7,Walleye
+17-4580-52980,8,Mattagami L.,8.5,7.33,8.82,Ontario Shield,NA,Walleye
+17-4583-50085,16,Cyprus L.,7.7,8.169,36,Mixedwood Plains,15,Walleye
+17-4591-53367,8,Kenogamissi L.,11,7.339,8.419,Ontario Shield,6,Walleye
+17-4620-52125,10,Onaping L.,4.799,6.349,2.48,Ontario Shield,NA,"Lake Trout, Walleye"
+17-4620-52125,10,Onaping L.,4.799,6.349,2.48,Ontario Shield,11,"Lake Trout, Walleye"
+17-4652-51149,10,Bear L.,7.299,7.049,4.74,Ontario Shield,21,NA
+17-4664-51605,10,Windy L.,3.5,6.339,2.439,Ontario Shield,12,NA
+17-4665-48812,16,Silver L.,15.1,8.119,48.1,Mixedwood Plains,14,Walleye
+17-4672-51457,10,Fairbank L.,5,6.91,6.7,Ontario Shield,19,NA
+17-4689-49939,16,Miller L.,5.099,8.15,32.2,Mixedwood Plains,17,Walleye
+17-4700-51520,10,Vermilion L.,9.199,6.7,6.379,Ontario Shield,15,NA
+17-4713-52126,10,Scotia L.,4,6.44,2.319,Ontario Shield,6,Lake Trout
+17-4714-53134,8,Kapiskong L.,10.8,7.19,12.5,Ontario Shield,5,NA
+17-4743-51217,10,"Panache, L.",4.7,7.33,5.759,Ontario Shield,16,"Lake Trout, Walleye"
+17-4759-52050,10,Rome L.,10.4,6.28,2.04,Ontario Shield,6,Brook Trout
+17-4773-53267,8,Muskasenda L.,10.6,7.62,14.5,Ontario Shield,6,Lake Trout
+17-4810-51976,10,Venetian L.,9.8,6.519,1.86,Ontario Shield,6,"Lake Trout, Walleye"
+17-4820-49523,16,Boat L.,8.4,8.279,45.1,Mixedwood Plains,23,Walleye
+17-4822-49331,16,Chesley L.,9.099,8.15,34.6,Mixedwood Plains,16,Walleye
+17-4839-49376,16,Gould L.,8.5,8.31,37.7,Mixedwood Plains,23,Walleye
+17-4857-47670,16,Fanshawe L.,50.2,8.359,77.4,Mixedwood Plains,31,Walleye
+17-4919-52573,10,Chrysler L.,10.699,7.639,14.4,Ontario Shield,4,Lake Trout
+17-4925-52070,10,Helen L.,8.4,6.16,1.56,Ontario Shield,8,Walleye
+17-4930-52197,10,Little Burwash L.,6.9,6.53,2.64,Ontario Shield,6,Lake Trout
+17-4935-53022,8,Dumbell L.,12.9,7.57,8.019,Ontario Shield,7,Walleye
+17-4936-51883,10,Bigwood L.,7,6.219,1.84,Ontario Shield,9,Lake Trout
+17-4967-54108,8,Pickerel L.,15.9,7.57,14.6,Ontario Shield,4,NA
+17-5018-53686,8,Night Hawk L.,23.199,7.309,8.619,Ontario Shield,11,Walleye
+17-5026-52889,8,Duncan L.,10.1,7.15,6.059,Ontario Shield,14,Walleye
+17-5038-51346,10,Brodill L.,5.9,6,1.52,Ontario Shield,2,NA
+17-5046-53895,8,Frederick House L.,26.3,7.54,15.4,Ontario Shield,6,Walleye
+17-5046-53895,8,Frederick House L.,26.3,7.54,15.4,Ontario Shield,6,Walleye
+17-5088-55586,8,Stringer L.,9.3,7.25,7.82,Ontario Shield,7,NA
+17-5128-54930,8,Harris L.,12.3,7.24,13.8,Ontario Shield,7,NA
+17-5149-54886,8,Montreuil L.,11.3,7.41,10.5,Ontario Shield,8,Walleye
+17-5179-52567,10,Okiniada L.,8.4,6.16,1.34,Ontario Shield,NA,Brook Trout
+17-5180-53389,8,Radisson L.,5.7,7.44,7.9,Ontario Shield,8,Lake Trout
+17-5184-52500,10,Lulu L.,4.799,5.75,1.159,Ontario Shield,4,"Brook Trout, Lake Trout"
+17-5191-51772,10,Wanapitei L.,3.599,6.889,6.879,Ontario Shield,20,Walleye
+17-5196-53085,8,Mistinikon L.,9,7.2,7.16,Ontario Shield,14,Walleye
+17-5202-54735,8,Humestone L.,11.8,7.299,8.9,Ontario Shield,4,Walleye
+17-5206-54832,8,Pierre L.,11.8,7.179,11.8,Ontario Shield,8,NA
+17-5208-52783,8,Miller L.,8.8,7.2,9.3,Ontario Shield,9,NA
+17-5208-55103,8,Sand L.,12.199,7.389,8.96,Ontario Shield,6,Walleye
+17-5215-48384,16,Conestogo L.,101.5,8,55.6,Mixedwood Plains,11,Walleye
+17-5240-51985,10,Chiniguchi L.,2.799,6.21,1.54,Ontario Shield,4,Lake Trout
+17-5240-51985,10,Chiniguchi L.,2.799,6.21,1.54,Ontario Shield,NA,Lake Trout
+17-5265-52901,8,Shillington L.,9.3,7.29,7.339,Ontario Shield,12,Lake Trout
+17-5271-54228,8,Maloney L.,22.8,7.62,17.699,Ontario Shield,4,NA
+17-5274-52242,11,Rodd L.,0,6.4,1.399,Ontario Shield,3,Lake Trout
+17-5289-52606,10,Shack L.,9.5,6.83,2.899,Ontario Shield,4,Brook Trout
+17-5310-52621,10,Island L.,6.099,7.37,6.099,Ontario Shield,13,Brook Trout
+17-5312-52592,10,Carmen L.,6,7.57,6.599,Ontario Shield,3,Brook Trout
+17-5314-53425,8,Watabeag L.,13.3,7.62,15.3,Ontario Shield,18,Lake Trout
+17-5331-54730,8,Little Abitibi L.,11.1,7.469,13.9,Ontario Shield,10,NA
+17-5335-52315,11,Florence L.,2.299,5.48,1.179,Ontario Shield,5,NA
+17-5338-52629,10,Southbear L.,6.599,6.719,4.839,Ontario Shield,4,Brook Trout
+17-5344-51754,10,Kukagami L.,4.4,6.75,3.16,Ontario Shield,15,Lake Trout
+17-5352-50862,15,Gurd L.,10.6,6.879,4.9,Ontario Shield,15,Walleye
+17-5384-50622,15,Giroux L.,14.6,6.37,1.74,Ontario Shield,10,Walleye
+17-5430-52549,11,Makobe L.,4.9,6.259,1.58,Ontario Shield,9,Lake Trout
+17-5515-51958,11,Emerald L.,3.6,7.08,6.459,Ontario Shield,19,Lake Trout
+17-5521-55108,8,Little Kesagami L.,10.1,7.429,9.199,Ontario Shield,11,Walleye
+17-5535-48461,16,"Belwood, L.",37.7,7.91,49.299,Mixedwood Plains,19,Walleye
+17-5547-55801,8,Kesagami L.,9.099,6.95,4.599,Ontario Shield,9,Walleye
+17-5552-52523,11,Anvil L.,5.099,6.23,1.48,Ontario Shield,9,Walleye
+17-5565-51124,11,Mercer L.,30.6,7.19,4.78,Ontario Shield,6,Walleye
+17-5566-52101,11,Obabika L.,6.299,7.049,3.14,Ontario Shield,11,NA
+17-5577-51311,11,Bear L.,56,7.299,8.88,Ontario Shield,7,Walleye
+17-5580-52276,11,Diamond L.,4,6.7,2.24,Ontario Shield,10,Lake Trout
+17-5590-54756,8,Wasicho L.,7.7,7.389,7.559,Ontario Shield,5,Walleye
+17-5601-51477,11,Deer L.,16.699,7.28,5.639,Ontario Shield,8,Walleye
+17-5604-55832,8,Patawagamau L.,8.599,7.24,8.279,Ontario Shield,NA,Walleye
+17-5605-48275,16,Guelph L.,24.6,8.259,57.7,Mixedwood Plains,6,NA
+17-5605-48275,16,Guelph L.,24.6,8.259,57.7,Mixedwood Plains,NA,NA
+17-5608-52396,11,Lady Evelyn L.,6.299,6.629,2.22,Ontario Shield,12,Walleye
+17-5646-54725,8,Snare L.,11.9,7.019,9.22,Ontario Shield,6,NA
+17-5662-55201,8,Lawagamau L.,8.4,6.95,3.899,Ontario Shield,7,Walleye
+17-5694-55282,8,"20J-33, L.",6.799,7.139,4.559,Ontario Shield,4,Walleye
+17-5700-52061,11,"Temagami, L.",4.5,7.32,7.099,Ontario Shield,25,"Lake Trout, Walleye"
+17-5717-50405,15,Wolf L.,7.799,6.23,1.28,Ontario Shield,12,NA
+17-5717-53183,8,Round L.,31.699,7.57,12.5,Ontario Shield,16,Walleye
+17-5732-51489,11,Muskosung L.,11.5,7.36,5.44,Ontario Shield,10,Walleye
+17-5733-52151,11,Kokoko L.,5.7,7.37,6.7,Ontario Shield,7,Walleye
+17-5735-54944,8,Burntbush L.,8.4,6.86,4.12,Ontario Shield,4,Walleye
+17-5740-52232,11,Red Squirrel L.,4.4,7.07,4.16,Ontario Shield,10,Lake Trout
+17-5742-50352,15,Nine Mile L.,7.5,6.15,1.26,Ontario Shield,16,NA
+17-5748-51919,11,Aileen L.,7.799,7.16,5.019,Ontario Shield,11,Lake Trout
+17-5770-51258,11,"Nipissing, L.",14.199,7.139,5.9,Ontario Shield,32,Walleye
+17-5778-52271,11,McLean L.,4.4,7,3.919,Ontario Shield,12,NA
+17-5787-52433,11,Kittson L.,6.2,7.03,3.24,Ontario Shield,8,Lake Trout
+17-5788-51912,11,Cross L.,3.799,7.32,6.54,Ontario Shield,12,Lake Trout
+17-5812-51735,11,Red Cedar L.,8.5,7.16,4.9,Ontario Shield,4,Walleye
+17-5812-51735,11,Red Cedar L.,8.5,7.16,4.9,Ontario Shield,13,Walleye
+17-5814-49627,16,Farlain L.,8.199,8,23.1,Mixedwood Plains,13,Walleye
+17-5827-52344,11,Anima Nipissing L.,3.6,6.99,3.68,Ontario Shield,13,"Lake Trout, Walleye"
+17-5833-50403,15,McKellar L.,12.4,6.61,3.54,Ontario Shield,13,Walleye
+17-5842-51980,11,Wasaksina L.,6.9,7.36,5.86,Ontario Shield,13,Walleye
+17-5845-51854,11,Hangstone L.,7.799,7.25,5.32,Ontario Shield,13,Walleye
+17-5851-53899,8,"Abitibi, L.",43.2,7.21,10.9,Ontario Shield,23,Walleye
+17-5852-52035,11,Driftwood L.,6.099,7.469,7.36,Ontario Shield,8,Walleye
+17-5879-50852,11,Cadden L.,7.599,6.639,2.439,Ontario Shield,3,Walleye
+17-5885-52314,11,Mountain L.,6.4,7.259,6.219,Ontario Shield,NA,NA
+17-5885-52314,11,Mountain L.,6.4,7.259,6.219,Ontario Shield,10,NA
+17-5909-52183,11,Net L.,6.2,7.139,4.32,Ontario Shield,10,NA
+17-5942-51055,11,Clear L.,5.799,7.129,2.819,Ontario Shield,12,Walleye
+17-5947-51034,11,Stormy L.,12,6.769,2.5,Ontario Shield,10,NA
+17-5952-55578,8,Parson L.,7.9,7.04,5.719,Ontario Shield,NA,NA
+17-5962-53128,8,St. Anthony L.,8.599,7.5,5.82,Ontario Shield,11,Lake Trout
+17-5970-52137,11,Cassels L.,5.799,7.33,8.039,Ontario Shield,12,Lake Trout
+17-5972-52300,11,Rib L.,3.7,7.32,6.459,Ontario Shield,8,Walleye
+17-5998-50031,15,"Joseph, L.",4.7,6.9,4.259,Ontario Shield,32,Lake Trout
+17-6007-51793,11,Wicksteed L.,8.199,6.969,3.58,Ontario Shield,3,Walleye
+17-6010-53265,8,Larder L.,8.4,7.58,11,Ontario Shield,16,Lake Trout
+17-6016-49633,16,Little L.,13.8,7.669,12.9,Ontario Shield,13,Walleye
+17-6025-50535,15,Ahmic L.,14.5,6.639,2.839,Ontario Shield,19,NA
+17-6026-49666,16,Gloucester Pl.,12.9,7.79,23.1,Ontario Shield,25,Walleye
+17-6031-52053,11,Rabbit L.,5.9,7.339,7.96,Ontario Shield,12,Walleye
+17-6058-49199,16,Little L.,17.5,8.33,53.2,Mixedwood Plains,21,Walleye
+17-6065-49697,16,Tea L.,9.099,7.259,7.559,Ontario Shield,13,Walleye
+17-6079-53230,8,Raven L.,10,6.929,4,Ontario Shield,14,Lake Trout
+17-6111-50550,15,"Cecebe, L.",13.5,6.78,3.14,Ontario Shield,21,Walleye
+17-6112-50030,15,"Rosseau, L.",5.4,6.83,3.319,Ontario Shield,25,Lake Trout
+17-6178-52207,12,"Timiskaming, L.",38.6,7.25,7.58,Ontario Shield,22,Walleye
+17-6216-50117,15,Skeleton L.,2.7,7,3.72,Ontario Shield,19,NA
+17-6239-50430,15,Doe L.,11.8,6.799,2.7,Ontario Shield,15,Walleye
+17-6257-50660,15,Bernard L.,10.699,7.11,4.019,Ontario Shield,14,Lake Trout
+17-6275-49634,16,Sparrow L.,15.3,7.73,20.899,Ontario Shield,17,Walleye
+17-6286-49481,16,"Couchiching, L.",6.9,8.21,41.799,Mixedwood Plains,42,Walleye
+17-6290-51301,11,Trout L.,5.9,7.309,5.519,Ontario Shield,14,"Lake Trout, Walleye"
+17-6328-49494,16,"St. John, L.",15.199,8,25.899,Mixedwood Plains,25,Walleye
+17-6369-50115,15,Mary L.,8.599,6.75,3,Ontario Shield,21,NA
+17-6382-51179,11,"Nosbonsing, L.",11.699,7.37,4.719,Ontario Shield,17,Walleye
+17-6436-50702,15,Peyton L.,4.3,5.929,1.12,Ontario Shield,5,Brook Trout
+17-6459-49524,17,Young L.,9.9,7.639,27.399,Ontario Shield,18,Walleye
+17-6500-49453,17,Dalrymple L.,12.6,8.119,49.299,Mixedwood Plains,26,Walleye
+17-6512-50588,15,South Branch L.,9.199,6.349,1.62,Ontario Shield,6,Brook Trout
+17-6523-50498,15,Dunstan L.,4.599,6.459,1.7,Ontario Shield,13,Brook Trout
+17-6532-49909,15,Bigwind L.,7.299,6.379,1.62,Ontario Shield,14,Brook Trout
+17-6548-49368,17,Canal L.,15,8.4,45.799,Mixedwood Plains,23,Walleye
+17-6554-50468,15,Cripple L.,7.099,5.809,1.02,Ontario Shield,9,Brook Trout
+17-6567-50131,15,Lake of B.s,4.7,6.759,1.72,Ontario Shield,18,Lake Trout
+17-6571-50360,15,Dotty L.,6.2,6.419,1.62,Ontario Shield,17,Brook Trout
+17-6651-49559,17,Head L.,10.3,8.13,22,Mixedwood Plains,12,Walleye
+17-6707-50264,15,Arbuckle L.,9.9,6.339,1.679,Ontario Shield,7,Brook Trout
+17-6712-49387,17,Balsam L.,6.7,7.889,17.399,Mixedwood Plains,42,Walleye
+17-6715-48930,17,"Scugog, L.",21.399,8.21,62.399,Mixedwood Plains,41,Walleye
+17-6731-51370,12,Lac la Cave,14.8,7.089,6.019,Ontario Shield,NA,Walleye
+17-6749-49534,17,Shadow L.,6.599,7.08,7.879,Mixedwood Plains,25,Walleye
+17-6758-50257,15,Poorhouse L.,7.099,6.74,2.08,Ontario Shield,13,Brook Trout
+17-6767-50182,15,Kawagama L.,3.6,6.58,2,Ontario Shield,22,NA
+17-6793-49499,17,Four Mile L.,4.5,7.79,31.1,Mixedwood Plains,21,Walleye
+17-6806-50080,15,Red Pine L.,7.9,6.679,2.02,Ontario Shield,11,Lake Trout
+17-6807-49881,15,Twelve Mile L.,5.599,7.11,5.219,Ontario Shield,15,Lake Trout
+17-6820-49260,17,Sturgeon L.,9.199,7.82,23.6,Mixedwood Plains,48,Walleye
+17-6934-50060,15,Redstone L.,4.599,6.809,2.279,Ontario Shield,11,Lake Trout
+17-6992-49270,17,Pigeon L.,8.8,7.95,29.399,Mixedwood Plains,35,Walleye
+17-7042-49937,15,Drag L.,5.2,7.24,7.04,Ontario Shield,11,NA
+17-7074-49293,17,Buckhorn L.,13.9,8.029,31.199,Mixedwood Plains,26,Walleye
+17-7074-49389,17,Big Bald L.,11.5,8.06,37.2,Mixedwood Plains,15,Walleye
+17-7076-49181,17,Chemong L.,13.4,8.199,41.2,Mixedwood Plains,35,Walleye
+17-7116-49585,15,Catchacoma L.,4.5,7.349,6.679,Ontario Shield,11,Lake Trout
+17-7120-51253,12,Holden L.,12.8,6.809,4.98,Ontario Shield,45,Walleye
+17-7120-51253,12,Holden L.,12.8,6.809,4.98,Ontario Shield,19,Walleye
+17-7123-49536,15,Mississagua L.,3.899,7.4,6.759,Ontario Shield,2,NA
+17-7123-49536,15,Mississagua L.,3.899,7.4,6.759,Ontario Shield,11,NA
+17-7123-49536,15,Mississagua L.,3.899,7.4,6.759,Ontario Shield,3,NA
+17-7170-49371,17,Lower Buckhorn L.,9.099,8.14,33.899,Mixedwood Plains,29,Walleye
+17-7182-49263,17,Katchewanooka L.,8.8,8,32.2,Mixedwood Plains,22,Walleye
+17-7197-49373,17,Lovesick L.,9.3,7.87,29.8,Mixedwood Plains,21,Walleye
+17-7230-49327,17,Clear L.,8.9,7.849,29.6,Mixedwood Plains,25,NA
+17-7249-50200,15,Meach L.,11,6.41,2.359,Ontario Shield,7,Brook Trout
+17-7257-48946,17,Rice L.,11.4,8.64,32.7,Mixedwood Plains,36,Walleye
+17-7310-49388,17,Stony L.,11,8.099,32.6,Mixedwood Plains,34,Walleye
+17-7323-49829,15,Paudash L.,7.599,7.419,9.539,Ontario Shield,16,Lake Trout
+17-7331-50275,15,McKenzie L.,5.799,6.9,2.7,Ontario Shield,14,Lake Trout
+17-7358-49530,15,Jack L.,6.9,7.969,23.8,Ontario Shield,16,Walleye
+18-2642-49981,15,Baptiste L.,10.199,6.78,4.36,Ontario Shield,18,Walleye
+18-2756-49309,17,Belmont L.,10.1,7.839,20.399,Ontario Shield,30,Walleye
+18-2756-49393,17,Cordova L.,13.1,7.74,17,Ontario Shield,16,Walleye
+18-2779-50548,15,Aylen L.,4.2,7.07,3.7,Ontario Shield,13,Lake Trout
+18-2782-50364,15,Bark L.,7.299,6.799,2.66,Ontario Shield,21,Walleye
+18-2790-50077,15,Salmon Trout L.,25.1,7,7.94,Ontario Shield,8,Walleye
+18-2810-50600,15,Murphys L.,7.8,6.49,2.819,Ontario Shield,13,Brook Trout
+18-2891-50334,15,Kamaniskeg L.,7.7,6.95,3.04,Ontario Shield,25,Walleye
+18-2900-50140,15,Fosters L.,8.5,7.839,19.5,Ontario Shield,9,Walleye
+18-3030-50572,15,Round L.,6.7,7.28,5.299,Ontario Shield,29,Lake Trout
+18-3050-49285,18,Moira L.,9.099,7.91,41.899,Ontario Shield,32,Walleye
+18-3065-49990,18,Crystal L.,5,6.37,2.22,Ontario Shield,11,Lake Trout
+18-3085-49890,18,Weslemkoon L.,8.099,7,3.96,Ontario Shield,13,Lake Trout
+18-3085-49890,18,Weslemkoon L.,8.099,7,3.96,Ontario Shield,9,Lake Trout
+18-3186-50482,15,Golden L.,12.8,7.57,8.679,Ontario Shield,28,Walleye
+18-3191-50636,15,Kelly L.,9.199,6.69,3.16,Ontario Shield,12,Walleye
+18-3220-49677,18,Skootamatta L.,4.799,6.83,4.879,Ontario Shield,17,Walleye
+18-3267-49749,18,Mazinaw L.,4.4,7.509,8.32,Ontario Shield,NA,Walleye
+18-3280-50833,12,Allumette L.,12.699,6.95,4.16,Mixedwood Plains,45,Walleye
+18-3351-50535,15,"Dore, L.",14.6,8.08,24.5,Ontario Shield,22,Walleye
+18-3369-49845,18,Buckshot L.,5.599,7.669,10.3,Ontario Shield,18,Lake Trout
+18-3380-49750,18,Shawenegog L.,12.5,7.559,17.899,Ontario Shield,15,Walleye
+18-3388-49903,18,Brule L.,8.099,7.65,15.5,Ontario Shield,16,Lake Trout
+18-3389-49691,18,Kashwakamak L.,5.4,7.889,14.9,Ontario Shield,23,Walleye
+18-3401-50475,15,Mink L.,6.7,8.289,39.799,Ontario Shield,19,Walleye
+18-3404-49395,18,Sheffield Long L.,11.5,7.28,12.3,Ontario Shield,18,Walleye
+18-3434-49499,18,Bull L.,13.1,7.379,12.199,Ontario Shield,20,Walleye
+18-3453-49652,18,Big Gull L.,9.699,7.429,9.9,Ontario Shield,23,Walleye
+18-3469-50088,15,Black Donald L.,11.199,7.669,11.5,Ontario Shield,20,Walleye
+18-3485-50735,12,Lower Allumette L.,13.3,7.139,4.839,Mixedwood Plains,2,Walleye
+18-3485-50735,12,Lower Allumette L.,13.3,7.139,4.839,Mixedwood Plains,46,Walleye
+18-3511-50603,15,Muskrat L.,36.1,8.259,38,Mixedwood Plains,31,Walleye
+18-3549-49862,18,Palmerston L.,5.7,7.9,24.899,Ontario Shield,16,Lake Trout
+18-3571-49746,18,Crotch L.,7.5,7.66,15.6,Ontario Shield,18,Walleye
+18-3577-50825,12,Lac Coulonge,14.1,6.99,4.299,Mixedwood Plains,47,Walleye
+18-3577-50825,12,Lac Coulonge,14.1,6.99,4.299,Mixedwood Plains,2,Walleye
+18-3587-49991,18,Govan L.,12.1,7.879,20.6,Ontario Shield,12,Walleye
+18-3632-49427,18,Elbow L.,15.5,7.309,6.78,Ontario Shield,15,Walleye
+18-3634-50151,15,Calabogie L.,7.099,7.12,10.8,Ontario Shield,18,Walleye
+18-3634-50151,15,Calabogie L.,7.099,7.12,10.8,Ontario Shield,NA,Walleye
+18-3640-49528,18,Leggat L.,12.4,7.559,9,Ontario Shield,18,Walleye
+18-3651-49486,18,Eagle L.,8.199,7.919,14,Ontario Shield,19,Lake Trout
+18-3662-50545,12,Lac du Rocher-Fendu,15.8,7.29,5.66,Mixedwood Plains,38,Walleye
+18-3668-49582,18,Sharbot L.,6.2,7.75,26,Ontario Shield,29,"Lake Trout, Walleye"
+18-3741-49489,18,Bobs L.,11.699,7.769,14.3,Ontario Shield,28,"Lake Trout, Walleye"
+18-3762-49801,18,Dalhousie L.,9.699,8.05,18.399,Ontario Shield,28,Walleye
+18-3767-49466,18,Burridge L.,5.599,7.95,34.799,Ontario Shield,14,Walleye
+18-3782-49339,18,Birch L.,8.8,7.759,20.699,Mixedwood Plains,21,Lake Trout
+18-3808-50183,18,White L.,10.3,8.119,34.899,Ontario Shield,22,Walleye
+18-3854-50393,12,Lac des Chats,18.8,7.21,5.98,Mixedwood Plains,45,Walleye
+18-3862-49620,18,Christie L.,6.2,7.53,19.199,Ontario Shield,27,Walleye
+18-3873-49226,18,Loughborough L.,5.3,8.029,37.2,Mixedwood Plains,13,NA
+18-3938-49203,18,Dog L.,15.4,7.919,19.899,Mixedwood Plains,14,NA
+18-4014-49297,18,Whitefish L.,12.4,7.91,25,Mixedwood Plains,16,NA
+18-4040-49580,18,Big Rideau L.,10,8.06,23.399,Ontario Shield,45,Lake Trout
+18-4082-49908,18,Mississippi L.,11.6,8.06,28.399,Ontario Shield,24,Walleye
+18-4196-49317,18,Charleston L.,11.9,8.259,28.5,Mixedwood Plains,30,Lake Trout
+18-4334-50239,12,Lac Deschenes,11.199,6.87,5.759,Mixedwood Plains,65,Walleye
+18-5390-50495,12,Lac Dollard-des-Ormeaux,20.6,7.24,7.639,Mixedwood Plains,80,Walleye
